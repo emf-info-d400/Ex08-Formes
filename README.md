@@ -3,7 +3,6 @@
 ## Objectifs visés :
 Maîtriser les diagrammes de séquence ; comprendre que le code y est fourni. Premiers pas légers en direction des notions d’héritage Java.
 
-
 ## Travail à réaliser
 Lisez avec attention les deux diagrammes fournis ci-après car ils contiennent en principe toutes les indications nécessaires afin d’implémenter ce nouveau projet Java « **Formes** ».
 
