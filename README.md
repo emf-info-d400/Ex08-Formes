@@ -1,5 +1,5 @@
 # Exercice 08 : Formes
-## durée : 120'
+## Durée : 120'
 ## Objectifs visés :
 Maîtriser les diagrammes de séquence ; comprendre que le code y est fourni. Premiers pas légers en direction des notions d’héritage Java.
 
